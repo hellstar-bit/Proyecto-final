@@ -1,0 +1,13 @@
+{
+    "ignore": [
+        "node_modules/",
+        "public/images/",
+        "*.log"
+    ],
+    "watch": [
+        "app.js",
+        "src/",
+        "public/"
+    ],
+    "ext": "js,html,css,json"
+} 
