@@ -1,5 +1,5 @@
 const books = [
-    { title: "Cien años de soledad", category: "novela", image: "/images/100years.jpeg", synopsis: "Esta obra maestra narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo.", free: false },
+    { title: "Cien años de soledad", category: "novela", image: "public/images/100years.jpeg", synopsis: "Esta obra maestra narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo.", free: false },
     { title: "El principito", category: "infantil", image: "/images/prince.jpg", synopsis: "Este clásico de la literatura cuenta la historia de un piloto que, tras un accidente en el desierto, conoce a un pequeño príncipe proveniente de otro planeta.", free: true },
     { title: "1984", category: "ficcion", image: "/images/1984.jpeg", synopsis: "Ambientada en una sociedad distópica, la novela sigue la vida de Winston Smith, un hombre que trabaja para el Partido controlando la información.", free: true },
     { title: "Don Quijote de la Mancha", category: "clasico", image: "/images/DonQ.jpeg", synopsis: "La historia del caballero Don Quijote y su fiel escudero Sancho Panza en su lucha contra molinos de viento y aventuras desquiciadas.", free: true },
